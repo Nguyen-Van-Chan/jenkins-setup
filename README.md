@@ -2,17 +2,7 @@
   <img alt="pipeline diagram" src="./docs/images/overview.png" width="100%"/><br/>
   Setup Jenkins với AWS Autoscaling Group, Load Balancer và EFS
 </h1>
-<p align="center">Triển khai Jenkins với AWS Autoscaling group cùng Application Load Balancer và multi-AZ EFS.</p>
-
-<p align="center"><a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white" alt="terraform" /></a>&nbsp;<a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white" alt="jenkins" /></a>&nbsp;<a href="https://www.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white" alt="ansible" /></a>&nbsp;<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Packer-02A8EF?logo=packer&logoColor=white" alt="Packer" /></a>&nbsp;<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?logo=amazon-aws&logoColor=white" alt="AWS" /></a></p>
-
-<p align="center">
-    <b>LANGUAGE</b>
-</p>
-<p align="center">
-    <a href="README.md"><img src="/docs/images/vi.png" width="25"></a>
-    <a href="https://devopscube.com/jenkins-autoscaling-setup/"><img src="/docs/images/us.png" width="25"></a>
-</p>
+<p align="center">Triển khai Jenkins trên Ubuntu.</p>
 
 ## 💝 Nguồn tham khảo
 
